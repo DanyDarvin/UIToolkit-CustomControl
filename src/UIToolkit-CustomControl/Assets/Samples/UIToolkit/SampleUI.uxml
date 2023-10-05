@@ -1,0 +1,4 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/CustomControls/Popup/Runtime/Resources/Styles/PopupControlStyleSheet.uss?fileID=7433441132597879392&amp;guid=35654c816ecc5bd46b5af485d0b9bdcb&amp;type=3#PopupControlStyleSheet" />
+    <CustomControls.Popup.Runtime.PopupControl />
+</ui:UXML>
